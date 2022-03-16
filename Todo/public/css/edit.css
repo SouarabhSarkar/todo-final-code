@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background: url(/img/5.jpg) center center fixed;
+}
+
+header{
+    text-align: right;
+}
+.head{
+    font-style: italic;
+    background: gray -500px;
+    color: white;
+}
+.update{
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: 1px 1px lightgray;
+}
+
+h1{
+    color: lightslategray;
+    padding: 8%;
+    margin: 0%;
+}
+
+.view{
+    font-style: italic;
+    background: gray -500px;
+    color: white;
+}
+
+.form{
+    margin: 0;
+    /* border-style: solid; */
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform:translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    /* background: url(/img/1.jpg) center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    
+}

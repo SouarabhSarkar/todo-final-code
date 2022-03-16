@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(/img/5.jpg) center center fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    text-align: right;
+    padding: 10px;
+    margin: 20px;
+}
+
+.home-link{
+    font-style: italic;
+    background: gray -500px;
+    color: white;
+}
